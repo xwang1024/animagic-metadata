@@ -1,0 +1,14 @@
+[
+  { "name": "Netflix" },
+  { "name": "Bilibili" },
+  { "name": "Baha" },
+  { "name": "Amazon" },
+  { "name": "^CCTV/" },
+  { "name": "HULU" },
+  { "name": "BBC" },
+  { "name": "NHK" },
+  { "name": "Disney+" },
+  { "name": "PBS NOVA" },
+  { "name": "B-Global" },
+  { "name": "PBS.NOVA" }
+]
